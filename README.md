@@ -12,10 +12,10 @@ I do not claim credit for the color scheme - this is the work of [Chris Kempson]
 Open up Brackets. Click on File, then "Extension Manager...". Click over to the "Themes" tab at the top of the window that opens, and search for "True Tomorrow (Base16)". You should see this theme as the result. Click Install. Close out of that window, and then in Brackets click View, then "Themes...". Here you can change your selected theme in the "Current Theme" dropdown. Select True Tomorrow (Base16) and you're good to go!
 
 ## HTML
-![HTML!](https://github.com/anthonyrom/TrueTomorrow/blob/master/screenshots/html.png)
+![HTML!](https://github.com/anthonyrom/true-tomorrow/blob/master/screenshots/html.png)
 
 ## CSS
-![CSS!](https://github.com/anthonyrom/TrueTomorrow/blob/master/screenshots/css.png)
+![CSS!](https://github.com/anthonyrom/true-tomorrow/blob/master/screenshots/css.png)
 
 ## JS
-![JavaScript!](https://github.com/anthonyrom/TrueTomorrow/blob/master/screenshots/js.png)
+![JavaScript!](https://github.com/anthonyrom/true-tomorrow/blob/master/screenshots/js.png)
